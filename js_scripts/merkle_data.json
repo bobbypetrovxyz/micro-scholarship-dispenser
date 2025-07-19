@@ -1,0 +1,19 @@
+{
+    "root": "0xe85cb5537992d6fd82b3e84e25e14b4aa7240bd52bc9e26a9b31bbc5d1331af3",
+    "students": [
+        {
+            "address": "0x38234f5C88F0d1CcC5b85D4Da6805E6E243a8cBc",
+            "amount": 500,
+            "proof": [
+                "0xb038c35ff92c03d51c2da63f64a8eef5b4033234b9e6004bb363f6217a877d8d"
+            ]
+        },
+        {
+            "address": "0xF38EAC99B2eB75d39De3886001D9a453934F8a01",
+            "amount": 500,
+            "proof": [
+                "0x64d0f05374aacf5f6adaaa805614248038917888c9bafbe206fbe1272801dd79"
+            ]
+        }
+    ]
+}
