@@ -30,5 +30,4 @@ contract DeployScript is Script {
     }
 }
 
-// forge script script/deploy.s.sol:DeployScript --broadcast --verify -vvvv --rpc-url sepolia --private-key fb13f686d3f2a0d11f40a94e4204a6d8f00806b9f187b0bbb7729a3f1592e948 --etherscan-api-key "${ETHERSCAN_API_KEY}"
-//
+// forge script script/deploy.s.sol:DeployScript --broadcast --verify -vvvv --rpc-url sepolia --private-key "${PRIVATE_KEY}" --etherscan-api-key "${ETHERSCAN_API_KEY}"
