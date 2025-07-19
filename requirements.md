@@ -75,7 +75,8 @@ Your solution must fully adhere to the described business logic and roles
 Proof you’ve manually tested all key steps of the process by adding deployment addresses and executed transaction info in the README.md file (More info in the Project Submission section).
 Security and Gas Optimization
 Apply the security principles and gas optimization techniques covered in the course.
-Project Submission
+
+## Project Submission
 Submit a .zip of the entire Foundry/Hardhat project, excluding node_modules, coverage, artifacts, cache, out, and the lib folder. If libraries (in lib folder as submodules)  other than:
 - forge-std
 - OpenZeppelin/openzeppelin-contracts-upgradeable
